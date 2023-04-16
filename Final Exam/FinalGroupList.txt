@@ -1,0 +1,330 @@
+group 1 :
+ kc3977@nyu.edu kc3977
+ zz2900@nyu.edu zz2900
+ rc4783@nyu.edu rc4783
+ mzs9959@nyu.edu mzs9959
+
+group 2 :
+ fm2443@nyu.edu fm2443
+ na3388@nyu.edu na3388
+ hz3322@nyu.edu hz3322
+ nms9661@nyu.edu nms9661
+
+group 3 :
+ sk9857@nyu.edu sk9857
+ ng2531@nyu.edu ng2531
+ jd5226@nyu.edu jd5226
+ sv2244@nyu.edu sv2244
+
+group 4 :
+ dk4572@nyu.edu dk4572
+ as16513@nyu.edu as16513
+ gs3920@nyu.edu gs3920
+ zmm2009@nyu.edu zmm2009
+
+group 5 :
+ oja227@nyu.edu oja227
+ zz4396@nyu.edu zz4396
+ ra2466@nyu.edu ra2466
+ kj2262@nyu.edu kj2262
+
+group 6 :
+ vl1240@nyu.edu vl1240
+ yy3913@nyu.edu yy3913
+ jk7846@nyu.edu jk7846
+ yl9396@nyu.edu yl9396
+
+group 7 :
+ sm11006@nyu.edu sm11006
+ isb5064@nyu.edu isb5064
+ sw5163@nyu.edu sw5163
+ ay2344@nyu.edu ay2344
+
+group 8 :
+ hl4827@nyu.edu hl4827
+ ac10230@nyu.edu ac10230
+ sg7395@nyu.edu sg7395
+ ss15590@nyu.edu ss15590
+
+group 9 :
+ sj4025@nyu.edu sj4025
+ ar8002@nyu.edu Ar8002
+ gs3916@nyu.edu gs3916
+ hn2276@nyu.edu hn2276
+
+group 10 :
+ zy1652@nyu.edu zy1652
+ js12624@nyu.edu js12624
+ sk10404@nyu.edu sk10404
+ aj3781@nyu.edu aj3781
+
+group 11 :
+ xw2922@nyu.edu xw2922
+ vh2112@nyu.edu Vh2112
+ as13521@nyu.edu as13521
+ ag8766@nyu.edu ag8766
+ 
+
+group 12 :
+ th2733@nyu.edu th2733
+ vgn2004@nyu.edu vgn2004
+ mk8475@nyu.edu mk8475
+ zs2173@nyu.edu zs2173
+
+group 13 :
+ ns5670@nyu.edu Ns5670
+ td2355@nyu.edu td2355
+ sm11017@nyu.edu SM11017
+ sm9739@nyu.edu sm9739
+
+group 14 :
+ ast9885@nyu.edu ast9885
+ jsr10000@nyu.edu jsr10000
+ jm9745@nyu.edu jm9745
+ yy4167@nyu.edu yy4167
+
+group 15 :
+ vgn2004@nyu.edu vgn2004
+ apk9563@nyu.edu apk9563
+ xf757@nyu.edu xf757
+ yy4341@nyu.edu yy4341
+
+group 16 :
+ tw2593@nyu.edu tw2593
+ ps4534@nyu.edu ps4534
+ ja4426@nyu.edu ja4426
+ pt2203@nyu.edu pt2203
+
+group 17 :
+ mc9164@nyu.edu mc9164
+ tn2265@nyu.edu tn2265
+ yz8751@nyu.edu yz8751
+ ar7403@nyu.edu ar7403
+
+group 18 :
+ lw3150@nyu.edu lw3150
+ cd2866@nyu.edu cd2866
+ nn2382@nyu.edu nn2382
+ nnp5666@nyu.edu nnp5666
+
+group 19 :
+ wl2369@nyu.edu wl2369
+ jz5326@nyu.edu jz5326
+ xn2032@nyu.edu xn2032
+ yy4167@nyu.edu yy4167
+
+group 20 :
+ hz3022@nyu.edu hz3022
+ sv2448@nyu.edu sv2448
+ dv2224@nyu.edu dv2224
+ sc8781@nyu.edu sc8781
+
+group 21 :
+ sf4013@nyu.edu sf4013
+ sj3396@nyu.edu Sj3396
+ bgs8255@nyu.edu bgs8255
+ hw2671@nyu.edu hw2671
+
+group 22 :
+ hj2345@nyu.edu hj2345
+ at4932@nyu.edu AT4932
+ avd8874@nyu.edu avd8874
+ smk8939@nyu.edu smk8939
+
+group 23 :
+ rv2210@nyu.edu rv2210
+ rv2292@nyu.edu rv2292
+ pr2359@nyu.edu pr2359
+ ds7000@nyu.edu ds7000
+
+group 24 :
+ tg2433@nyu.edu tg2433
+ zf540@nyu.edu zf540
+ fz2244@nyu.edu fz2244
+ ds6992@nyu.edu ds6692
+
+group 25 :
+ sa7055@nyu.edu sa7055
+ kaj9196@nyu.edu kaj9196
+ zq2119@nyu.edu zq2119
+ ks6807@nyu.edu Ks6807
+
+group 26 :
+ ql2267@nyu.edu ql2267
+ sa6981@nyu.edu sa6981
+ hjc423@nyu.edu hjc423
+ mms9905@nyu.edu mms9905
+
+group 27 :
+ jy4286@nyu.edu jy4286
+ asv8775@nyu.edu asv8775 
+ rg4357@nyu.edu rg4357
+ jru5640@nyu.edu jru5640
+
+group 28 :
+ cw3924@nyu.edu cw3924
+ sh7253@nyu.edu sh7253
+ xw3117@nyu.edu Xinyi Wei
+ sg7401@nyu.edu sg7401
+
+group 29 :
+ cs7074@nyu.edu cs7074
+ sss9772@nyu.edu sss9772
+ bc3285@nyu.edu bc3285
+ sa6948@nyu.edu sa6948
+
+group 30 :
+ lw3150@nyu.edu lw3150
+ rv2292@nyu.edu rv2292
+ am11982@nyu.edu am11982
+ ap7584@nyu.edu ap7584
+
+group 31 :
+ as16410@nyu.edu as16410
+ djs9437@nyu.edu djs9437
+ yc5703@nyu.edu yc5703
+ af4175@nyu.edu af4175
+
+group 32 :
+ cw2997@nyu.edu cw2997
+ cl6108@nyu.edu cl6108
+ hz3082@nyu.edu hz3082
+ una207@nyu.edu una207
+
+group 33 :
+ tn2151@nyu.edu tn2151
+ lv2218@nyu.edu lv2218
+ yl9851@nyu.edu yl9851
+ vp2371@nyu.edu vp2371
+
+group 34 :
+ zw3387@nyu.edu zw3387
+ hl4851@nyu.edu hl4851
+ ks6421@nyu.edu ks6421
+ ma7478@nyu.edu ma7478
+
+group 35 :
+ dt2482@nyu.edu dt2482
+ ct3002@nyu.edu ct3002
+ rs8385@nyu.edu rs8385
+ pn2224@nyu.edu pn2224
+
+group 36 :
+ ab10741@nyu.edu ab10741
+ ugo1@nyu.edu ugo1
+ yl8241@nyu.edu yl8241
+ tm3805@nyu.edu tm3805
+
+group 37 :
+ jl11975@nyu.edu jl11975
+ lt2519@nyu.edu lt2519
+ as16494@nyu.edu as16494
+ as15845@nyu.edu as15845
+
+group 38 :
+ gl2535@nyu.edu gl2535
+ pb2715@nyu.edu pb2715
+ kv2154@nyu.edu kv2154
+ jai9962@nyu.edu jai9962
+
+group 39 :
+ lz2554@nyu.edu lz2554
+ vb2183@nyu.edu Vb2183
+ qc872@nyu.edu qc872
+ ms14029@nyu.edu ms14029
+
+group 40 :
+ fk2196@nyu.edu fk2196
+ sv2564@nyu.edu sv2564
+ cb5143@nyu.edu cb5143
+ gz706@nyu.edu gz706
+
+group 41 :
+ zw3183@nyu.edu zw3183
+ tm3805@nyu.edu tm3805
+ gl2533@nyu.edu gl2533
+ sx2110@nyu.edu sx2110
+
+group 42 :
+ av3290@nyu.edu av3290
+ sd5292@nyu.edu sd5292
+ fx2078@nyu.edu fx2078
+ hl4851@nyu.edu hl4851
+
+group 43 :
+ ag9135@nyu.edu ag9135
+ aa10336@nyu.edu aa10336
+ yn2224@nyu.edu yn2224
+ cm6389@nyu.edu cm6389
+
+group 44 :
+ cl6418@nyu.edu cl6418
+ th2278@nyu.edu th2278
+ mng9349@nyu.edu mng9349
+ nh2321@nyu.edu nh2321
+
+group 45 :
+ gl2535@nyu.edu gl2535
+ rm6397@nyu.edu Rm6397
+ ss16924@nyu.edu ss16924
+ dkp8947@nyu.edu dkp8947
+
+group 46 :
+ yz8864@nyu.edu yz8864
+ zx1356@nyu.edu zx1356
+ sa7495@nyu.edu sa7495
+ mp6021@nyu.edu mp6021
+
+group 47 :
+ ys5250@nyu.edu ys5250
+ ro2151@nyu.edu ro2151
+ aa10350@nyu.edu aa10350
+ hj2449@nyu.edu hj2449
+
+group 48 :
+ ss16116@nyu.edu ss16116
+ mq2088@nyu.edu mq2088
+ ap7982@nyu.edu AP7982
+ hpc4473@nyu.edu hpc4473
+
+group 49 :
+ kp2684@nyu.edu kp2684
+ rb5118@nyu.edu rb5118
+ ch3860@nyu.edu ch3860
+ zx1356@nyu.edu zx1356
+
+group 50 :
+ yq2330@nyu.edu yq2330
+ sp6646@nyu.edu sp6646
+ yq2330@nyu.edu yq2330
+ as17340@nyu.edu as17340
+
+group 51 :
+ ys5250@nyu.edu ys5250
+ sj3828@nyu.edu sj3828
+ zh2441@nyu.edu zh2441 
+ dm5463@nyu.edu dm5463
+
+group 52 :
+ ml8127@nyu.edu ml8127
+ yd2284@nyu.edu yd2284
+ ds6969@nyu.edu ds6969
+ dyp231@nyu.edu dyp231
+
+group 53 :
+ zg2442@nyu.edu zg2442
+ ys5270@nyu.edu ys5270
+ yn2232@nyu.edu yn2232
+ mt4835@nyu.edu mt4835
+
+group 54 :
+ pbp2022@nyu.edu pbp2022
+ xl4141@nyu.edu xl4141
+ kv2154@nyu.edu kv2154
+ rc5018@nyu.edu rc5018
+
+group 55 :
+ bw2555@nyu.edu bw2555
+ bz2291@nyu.edu bz2291
+ sr6411@nyu.edu sr6411
+ pb2777@nyu.edu pb2777
